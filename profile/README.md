@@ -13,7 +13,7 @@
 </center>
 
 <details>
-<summary> <i> ¿Charlas qué? 🤔 </i> </summary>
+<summary> <i> Disculpa, ¿charlas qué? </i> 🤔 </summary>
 
 > RSE = research software engineer = ingeniero de software de investigación
 >
@@ -21,7 +21,7 @@
 </details>
 
 
-An initiative started by Carlos (aka [@cptanalatriste](https://github.com/cptanalatriste), from the Alan Turing Institute), and Sofía (aka [@sfmig](https://github.com/sfmig), from the Sainsbury Wellcome Centre at UCL), from a conversation at the DEI workshop during [RSECon24](https://rsecon24.society-rse.org/). Our aims are:
+An initiative started by Carlos ([@cptanalatriste](https://github.com/cptanalatriste), from the Alan Turing Institute), and Sofía ([@sfmig](https://github.com/sfmig), from the Sainsbury Wellcome Centre at UCL), from a conversation at the DEI workshop during [RSECon24](https://rsecon24.society-rse.org/). Our aims are:
 - to showcase the RSE role across the Spanish-speaking world, 
 - to get in touch with the cool research and tech carried out by hispanophones all over the world, and 
 - to selfishly speak our mother tongue before we forget it.
@@ -30,7 +30,7 @@ We have an exciting list of speakers lined up for what we plan to be a monthly s
 
 
 ## 📢 Next Speaker 
-Our next speaker will be **Diego Alonso Álvarez**, who will tell us how his experience in research and software led him to become head of the [RSE team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/) at Imperial College London. Check the abstract+bio below (en español) 👇 🧵
+Our next speaker will be **Diego Alonso Álvarez**, who will tell us how his experience in research and software led him to become head of the [RSE team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/) at Imperial College London. Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
 <details>
   <summary><h3> Diego Alonso Álvarez: <i>"De la investigación a la ingeniería de software"</i></h3></summary>
