@@ -48,20 +48,26 @@ TLDR:
 
 We have limited spots for attending the talk in person, at the Alan Turing Institute office at the British Library. If interested, please email Carlos directly (cgavidia-calderon@turing.ac.uk)
 
-And [here](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md) you can find a list of all our previous sessions. Enjoy! 🤓
 
-## ⭐ Interested in presenting or keeping in touch?
-
+## 🦦 How to keep in touch?
 
 The best ways to keep up to date with our latest moves are:
 - our slack channel #se-habla-espanol at the [RSE slack workspace](https://ukrse.slack.com)
 - on [GitHub discussions](https://github.com/orgs/charlas-rse-espanol/discussions)
 
-You can also subscribe to our Google Calendar to get reminders of our upcoming talks:
+You can also check our Google Calendar with past and upcoming talks:
 - para suscribirse 🤝 (requiere sign-in) --> siga [este link](https://calendar.google.com/calendar/u/1?cid=Y2hhcmxhcy5yc2UuZXNwYW5vbEBnbWFpbC5jb20)
 - para ver el calendario 👀 (sin sign-in) --> siga [este link](https://calendar.google.com/calendar/embed?src=charlas.rse.espanol%40gmail.com&ctz=UTC)
 
-Also, feel free to contact us with any talk suggestions! Check out our [speaker guidelines](https://github.com/charlas-rse-espanol/.github/blob/main/format.md).
+Also, feel free to contact us with any talk suggestions!
+
+## ⭐ Interested in presenting?
+¡Nos encantaría tenerte de ponente!
+
+Check out our [speaker guidelines](https://github.com/charlas-rse-espanol/.github/blob/main/format.md) - feel free to contact us if you have any questions.
+
+And [here](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md) you can find more details from our previous sessions. Enjoy! 🤓
+
 
 ## 🤪 Organisers
 The charlas are currently organised by these fantastic folks. Do get in touch if you'd like to get involved!
