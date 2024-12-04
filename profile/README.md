@@ -64,7 +64,7 @@ Also, feel free to contact us with any talk suggestions!
 ## ⭐ Interested in presenting?
 ¡Nos encantaría tenerte de ponente!
 
-Check out our [speaker guidelines](https://github.com/charlas-rse-espanol/.github/blob/main/format.md) - feel free to contact us if you have any questions.
+Check out our [speaker guidelines](https://github.com/charlas-rse-espanol/.github/blob/main/profile/format.md) - feel free to contact us if you have any questions.
 
 And [here](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md) you can find more details from our previous sessions. Enjoy! 🤓
 
