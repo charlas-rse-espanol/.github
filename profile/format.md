@@ -11,7 +11,7 @@ En general, el formato de las sesiones es el siguiente:
 
 Tratamos de hacer las charlas paritarias (un hombre una edición, una mujer en la siguiente), y también alternar entre ponentes de Europa y América.
 
-Los temas que tratamos en nuestro seminario son de infórmática 👩‍💻, ciencia 🔭 e investigación ⚗️ (técnicos, profesionales, o vivenciales) de interés para la comunidad hispano-hablante global. 
+Los temas que tratamos en nuestro seminario son de informática 👩‍💻, ciencia 🔭 e investigación ⚗️ (técnicos, profesionales, o vivenciales) de interés para la comunidad hispano-hablante global. 
 
 Nuestra audiencia es diversa, por lo que recomendamos no asumir algún conocimiento previo. 
 
