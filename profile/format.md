@@ -7,7 +7,7 @@ En general, el formato de las sesiones es el siguiente:
 - **15 min de intro**, donde charlamos de forma informal con los asistentes presenciales y virtuales. Puede ir seguido de una sección más corta, donde comentamos cuestiones administrativas, anuncios/eventos que puedan ser de interés para la comunidad.
 - **30 min de charla**
 - **15 min de preguntas y discusión**
--  cervecitas! 🍻
+-  cervecitas! 🍻 o soft-drinkcitos! 🥤
 
 Tratamos de hacer las charlas paritarias (un hombre una edición, una mujer en la siguiente), y también alternar entre ponentes de Europa y América.
 
