@@ -33,7 +33,7 @@ We have an exciting list of speakers lined up for what we plan to be a monthly s
 Our next speaker will be **Diego Alonso Álvarez**, who will tell us how his experience in research and software led him to become head of the [RSE team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/) at Imperial College London. Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
 <details>
-  <summary><h3> Diego Alonso Álvarez: <i>"De la investigación a la ingeniería de software"</i></h3></summary>
+  <summary><h3> Diego Alonso Álvarez: <i>"Ingenieros de software de investigación: breve historia, cómo se hacen y a qué se dedican"</i></h3></summary>
 
 > El software ha sido aplicado a la ciencia y la investigación prácticamente desde la aparición de los ordenadores, pero ha sido sólo recientemente cuando su uso se ha extendido tanto y es tan común en todas las ramas del conocimiento, que se ha hecho imposible negar lo innegable: que el software es una pieza clave de los resultados de una investigación que debe recibir la atención, el cuidado y el valor que se merecen. En esta charla, hablaré de mi viaje a lo largo de mi carrera investigadora, cómo he acabado donde he acabado como RSE - historias que seguro que resuenan con las de muchos otros RSEs -, y que iniciativas tiene en marcha el RSE Team del Imperial para lograr precisamente eso, que el software producido en investigación sea de la máxima calidad, valorado y creando impacto.
 >
@@ -66,7 +66,7 @@ Also, feel free to contact us with any talk suggestions!
 
 Check out our [speaker guidelines](https://github.com/charlas-rse-espanol/.github/blob/main/profile/format.md) - feel free to contact us if you have any questions.
 
-And [here](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md) you can find more details from our previous sessions. Enjoy! 🤓
+You can also check more details from our [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md). Enjoy! 🤓
 
 
 ## 🤪 Organisers
