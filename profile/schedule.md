@@ -14,7 +14,7 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   
 * Diego Alonso Álvarez (Imperial College London), 9 de diciembre de 2024      
   <details>
-    <summary><b><i>"De la investigación a la ingeniería de software"</i></b></summary>
+    <summary><b><i>"Ingenieros de software de investigación: breve historia, cómo se hacen y a qué se dedican"</i></b></summary>
     
   > El software ha sido aplicado a la ciencia y la investigación prácticamente desde la aparición de los ordenadores, pero ha sido sólo recientemente cuando su uso se ha extendido tanto y es tan común en todas las ramas del conocimiento, que se ha hecho imposible negar lo innegable: que el software es una pieza clave de los resultados de una investigación que debe recibir la atención, el cuidado y el valor que se merecen. En esta charla, hablaré de mi viaje a lo largo de mi carrera investigadora, cómo he acabado donde he acabado como RSE - historias que seguro que resuenan con las de muchos otros RSEs -, y que iniciativas tiene en marcha el RSE Team del Imperial para lograr precisamente eso, que el software producido en investigación sea de la máxima calidad, valorado y creando impacto.
   >
