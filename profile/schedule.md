@@ -12,7 +12,7 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   > Juan Rodríguez Herrera se incorporó a EPCC en 2015 tras obtener el Doctorado en Informática en la Universidad de Almería. Es el responsable de formación de ARCHER2. También participa en otras actividades del servicio ARCHER2, tales como el soporte a los usuarios y la divulgación.
   </details>
   
-* Diego Alonso Álvarez (Imperial College London), 9 de diciembre de 2024      
+* Diego Alonso Álvarez (Imperial College London), 9 de diciembre de 2024 [[diapositivas]](https://doi.org/10.5281/zenodo.14350523)      
   <details>
     <summary><b><i>"Ingenieros de software de investigación: breve historia, cómo se hacen y a qué se dedican"</i></b></summary>
     
