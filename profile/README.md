@@ -30,6 +30,11 @@ We have an exciting list of speakers lined up for what we plan to be a monthly s
 
 
 ## 📢 Next Speaker 
+Our next talk is currently planned for mid-January 2025 - more details to follow soon!
+
+In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
+
+<!---
 Our next speaker will be **Diego Alonso Álvarez**, who will tell us how his experience in research and software led him to become head of the [RSE team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/) at Imperial College London. Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
 <details>
@@ -47,7 +52,7 @@ TLDR:
 - 💃 A social visit to the pub after the talk to continue con el palique has been often reported...
 
 We have limited spots for attending the talk in person, at the Alan Turing Institute office at the British Library. If interested, please email Carlos directly (cgavidia-calderon@turing.ac.uk)
-
+-->
 
 ## 🦦 How to keep in touch?
 
