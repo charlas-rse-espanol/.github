@@ -57,12 +57,8 @@ We have limited spots for attending the talk in person, at the Alan Turing Insti
 ## 🦦 How to keep in touch?
 
 The best ways to keep up to date with our latest moves are:
-- our mailing list via [Google Groups](https://groups.google.com/g/rse-en-espaniol/). Click directly on the link to join!
-- our slack channel #se-habla-espanol at the [UK RSE slack workspace](https://ukrse.slack.com). Click on the link to request an invite.
-
-You can also check our Google Calendar with past and upcoming talks:
-- para suscribirse 🤝 (requiere sign-in) --> siga [este link](https://calendar.google.com/calendar/u/1?cid=Y2hhcmxhcy5yc2UuZXNwYW5vbEBnbWFpbC5jb20)
-- para ver el calendario 👀 (sin sign-in) --> siga [este link](https://calendar.google.com/calendar/embed?src=charlas.rse.espanol%40gmail.com&ctz=UTC)
+- 📬 our mailing list via [Google Groups](https://groups.google.com/g/rse-en-espaniol/). Click directly on the link to join!
+- 💬 our Slack channel **#se-habla-espanol** in the [UK RSE slack workspace](https://ukrse.slack.com). Click on the link to request an invite.
 
 Also, feel free to contact us with any talk suggestions!
 
