@@ -30,29 +30,28 @@ We have an exciting list of speakers lined up for what we plan to be a monthly s
 
 
 ## 📢 Next Speaker 
+<!---
 Our next talk is currently planned for mid-January 2025 - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
-
-<!---
-Our next speaker will be **Diego Alonso Álvarez**, who will tell us how his experience in research and software led him to become head of the [RSE team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/) at Imperial College London. Click on the title to expand the abstract+bio below (en español) 👇 🧵
+-->
+Our next speaker will be **Pablo Vicente Munuera**, who will tell us about his experience as an "unofficial" RSE at University College London, and how pole dance 🤸‍♀️ and biology 🧬 are connected! Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
 <details>
-  <summary><h3> Diego Alonso Álvarez: <i>"Ingenieros de software de investigación: breve historia, cómo se hacen y a qué se dedican"</i></h3></summary>
+  <summary><h4> Pablo Vicente Munuera: <i>"¿Cómo un movimiento de Pole dance y la biología están conectados? Historias de un ‘unofficial RSE'"</i></h4></summary>
 
-> El software ha sido aplicado a la ciencia y la investigación prácticamente desde la aparición de los ordenadores, pero ha sido sólo recientemente cuando su uso se ha extendido tanto y es tan común en todas las ramas del conocimiento, que se ha hecho imposible negar lo innegable: que el software es una pieza clave de los resultados de una investigación que debe recibir la atención, el cuidado y el valor que se merecen. En esta charla, hablaré de mi viaje a lo largo de mi carrera investigadora, cómo he acabado donde he acabado como RSE - historias que seguro que resuenan con las de muchos otros RSEs -, y que iniciativas tiene en marcha el RSE Team del Imperial para lograr precisamente eso, que el software producido en investigación sea de la máxima calidad, valorado y creando impacto.
+> ¿Cómo un informático acaba haciendo biología? ¿Cuál es el papel del software en el campo de las ciencias naturales? Éstas son algunas de las preguntas que abordaré desde mi propia experiencia en esta charla. Hablaré de Escutoides. De software y equipos multidisciplinares. De conseguir autorías en artículos siendo computacional en un mundo de laboratorios. De open source y la obligación de llegar primero. También disfrutaréis de chistes malos y otras cosas absurdas que a veces hacen muy feliz.
 >
-> El Dr. Diego Alonso Álvarez es físico con 13 años de experiencia en investigación en el ámbito académico, incluido un doctorado en nanoestructuras de semiconductores e investigación postdoctoral sobre nuevos conceptos de energía solar y células solares. Se unió al equipo de Ingeniería de Software de Investigación (RSE Team) del Imperial College de Londres en noviembre de 2018 y ha contribuido a decenas de proyectos desde entonces. Diego es Fellow del Software Sustainability Institute, miembro de la Society of Research Software Engineering, y le entusiasma promover los beneficios de las buenas prácticas de desarrollo de software entre otros investigadores. Su experiencia se centra en la sostenibilidad y la accesibilidad del software, especialmente en relación con el desarrollo de interfaces gráficas de usuario para software de investigación. Diego dirige el RSE Team dentro de los Servicios de Computación de Investigación del Imperial desde noviembre de 2021.
+> Bio: Soy un informático especializado en abordar problemas biológicos. Durante mi doctorado en la Universidad de Sevilla, bajo la supervisión de Luis M. Escudero, creé herramientas como EpiGraph para analizar imágenes de microscopía y estudiar la organización de los tejidos, descubriendo el Escutoide. Ahora, trabajo como investigador postdoctoral con Yanlan Mao en la University College London, desarrollando un modelo computacional 3D para entender cómo las fuerzas moldean tejidos. A lo largo de mi carrera, he colaborado con científicos de diversas disciplinas, liderando el desarrollo de herramientas como EpiTools y supervisando proyectos de análisis de imágenes en 3D, siempre con un enfoque en open source y accesibles para la comunidad científica.
 </details>
 
 TLDR:
-- 🗣️ *What?* ¡Tech talks en español!
-- 🕓 *When?* 9th December 2024, 4pm UK time
-- 📍 *How?* online and in-person at The Alan Turing Institute.
-- 💃 A social visit to the pub after the talk to continue con el palique has been often reported...
+- 🗣 *What?* ¡Tech talks en español!
+- 🕓 *When?* Monday 20th January 2025, 4pm UK time
+- 📍 *How?* Online and in-person at [Bentham House, UCL 302 Tutorial Room](https://maps.app.goo.gl/6cUMZvEKh7FyFtrP8)
+- 💃 A social visit to the pub is now traditional!
 
-We have limited spots for attending the talk in person, at the Alan Turing Institute office at the British Library. If interested, please email Carlos directly (cgavidia-calderon@turing.ac.uk)
--->
+If you want to attend in person, note that this time the session is taking place in UCL Campus. Please email Sofía (s.minano@ucl.ac.uk) if you plan to join us *en carne y hueso* as we have limited spots.
 
 ## 🦦 How to keep in touch?
 
