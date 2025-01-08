@@ -38,7 +38,7 @@ In the meantime, maybe you can check the material from [previous sessions](https
 Our next speaker will be **Pablo Vicente Munuera**, who will tell us about his experience as an "unofficial" RSE at University College London, and how pole dance 🤸‍♀️ and biology 🧬 are connected! Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
 <details>
-  <summary><h4> Pablo Vicente Munuera: <i>"¿Cómo un movimiento de Pole dance y la biología están conectados? Historias de un ‘unofficial RSE'"</i></h4></summary>
+  <summary><h3> Pablo Vicente Munuera: <i>"¿Cómo un movimiento de Pole dance y la biología están conectados? Historias de un ‘unofficial RSE'"</i></h3></summary>
 
 > ¿Cómo un informático acaba haciendo biología? ¿Cuál es el papel del software en el campo de las ciencias naturales? Éstas son algunas de las preguntas que abordaré desde mi propia experiencia en esta charla. Hablaré de Escutoides. De software y equipos multidisciplinares. De conseguir autorías en artículos siendo computacional en un mundo de laboratorios. De open source y la obligación de llegar primero. También disfrutaréis de chistes malos y otras cosas absurdas que a veces hacen muy feliz.
 >
