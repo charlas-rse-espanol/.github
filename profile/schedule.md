@@ -20,4 +20,12 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   >
   > El Dr. Diego Alonso Álvarez es físico con 13 años de experiencia en investigación en el ámbito académico, incluido un doctorado en nanoestructuras de semiconductores e investigación postdoctoral sobre nuevos conceptos de energía solar y células solares. Se unió al equipo de Ingeniería de Software de Investigación (RSE Team) del Imperial College de Londres en noviembre de 2018 y ha contribuido a decenas de proyectos desde entonces. Diego es Fellow del Software Sustainability Institute, miembro de la Society of Research Software Engineering, y le entusiasma promover los beneficios de las buenas prácticas de desarrollo de software entre otros investigadores. Su experiencia se centra en la sostenibilidad y la accesibilidad del software, especialmente en relación con el desarrollo de interfaces gráficas de usuario para software de investigación. Diego dirige el RSE Team dentro de los Servicios de Computación de Investigación del Imperial desde noviembre de 2021.
   </details>
-   
+
+* Pablo Vicente Munuera (University College London), 20 de enero de 2025
+  <details>
+    <summary><b><i>"¿Cómo un movimiento de pole dance y la biología están conectados? Historias de un ‘unofficial RSE'"</i></b></summary>
+  
+  > ¿Cómo un informático acaba haciendo biología? ¿Cuál es el papel del software en el campo de las ciencias naturales? Éstas son algunas de las preguntas que abordaré desde mi propia experiencia en esta charla. Hablaré de Escutoides. De software y equipos multidisciplinares. De conseguir autorías en artículos siendo computacional en un mundo de laboratorios. De open source y la obligación de llegar primero. También disfrutaréis de chistes malos y otras cosas absurdas que a veces hacen muy feliz.
+  >
+  > Bio: Soy un informático especializado en abordar problemas biológicos. Durante mi doctorado en la Universidad de Sevilla, bajo la supervisión de Luis M. Escudero, creé herramientas como EpiGraph para analizar imágenes de microscopía y estudiar la organización de los tejidos, descubriendo el Escutoide. Ahora, trabajo como investigador postdoctoral con Yanlan Mao en la University College London, desarrollando un modelo computacional 3D para entender cómo las fuerzas moldean tejidos. A lo largo de mi carrera, he colaborado con científicos de diversas disciplinas, liderando el desarrollo de herramientas como EpiGraph y supervisando proyectos de análisis de imágenes en 3D, siempre con un enfoque en open source y accesibles para la comunidad científica.
+  </details>
