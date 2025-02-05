@@ -29,31 +29,30 @@ An initiative started by Carlos ([@cptanalatriste](https://github.com/cptanalatr
 We have an exciting list of speakers lined up for what we plan to be a monthly series. Stay tuned! 📻
 
 
-## 📢 Next Speaker 
-
-Our next talk is currently planned for mid-February 2025 - more details to follow soon!
+## 📢 Next Speaker
+<!---
+Our next talk is currently planned for mid-January 2025 - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
-
-<!---
-Our next speaker will be **Pablo Vicente Munuera**, who will tell us about his experience as an "unofficial" RSE at University College London, and how pole dance 🤸‍♀️ and biology 🧬 are connected! Click on the title to expand the abstract+bio below (en español) 👇 🧵
+-->
+Our next speaker will be **Mauro Lepore**, who will tell us about his experience as a software engineer in R, working in universities, museums, NGOs and research centres all over the world! 🌎🌍🌏 Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
 <details>
-  <summary><h3> Pablo Vicente Munuera: <i>"¿Cómo un movimiento de Pole dance y la biología están conectados? Historias de un ‘unofficial RSE'"</i></h3></summary>
+  <summary><h3> Mauro Lepore: <i>"Expandiendo colaboraciones en Ingeniería de Software de Investigación"</i></h3></summary>
 
-> ¿Cómo un informático acaba haciendo biología? ¿Cuál es el papel del software en el campo de las ciencias naturales? Éstas son algunas de las preguntas que abordaré desde mi propia experiencia en esta charla. Hablaré de Escutoides. De software y equipos multidisciplinares. De conseguir autorías en artículos siendo computacional en un mundo de laboratorios. De open source y la obligación de llegar primero. También disfrutaréis de chistes malos y otras cosas absurdas que a veces hacen muy feliz.
+> En esta presentación comparto mis experiencias al hacer la transición como Research Software Engineer (RSE) desde la academia hacia la industria. En la última década, desarrollé código para investigación en una universidad en Australia, un centro de investigación en Panamá, un museo en EE.UU., una ONG en Alemania y ahora una consultora enfocada en ciencia, ingeniería y estrategia de datos. Voy a compartir las necesidades que noté, y voy a explicar por qué creo que las personas que trabajamos en RSE podemos aportar mucho valor combinando experiencia en investigación e industria. Sin embargo, quisiera que mi experiencia sea solo un punto de partida y promover una discusión en la que podamos explorar más profundamente el valor que podemos aportar, especialmente en la comunidad hispanohablante: ¿Quiénes nos necesitan? ¿Dónde están? ¿Qué necesitan? ¿Cómo podemos ayudarlos?
 >
-> Bio: Soy un informático especializado en abordar problemas biológicos. Durante mi doctorado en la Universidad de Sevilla, bajo la supervisión de Luis M. Escudero, creé herramientas como EpiGraph para analizar imágenes de microscopía y estudiar la organización de los tejidos, descubriendo el Escutoide. Ahora, trabajo como investigador postdoctoral con Yanlan Mao en la University College London, desarrollando un modelo computacional 3D para entender cómo las fuerzas moldean tejidos. A lo largo de mi carrera, he colaborado con científicos de diversas disciplinas, liderando el desarrollo de herramientas como EpiTools y supervisando proyectos de análisis de imágenes en 3D, siempre con un enfoque en open source y accesibles para la comunidad científica.
+> **Bio**: Trabajo en [ixpantia](http://ixpantia.com/) donde lidero la [práctica de RSE](https://www.ixpantia.com/es/blog/rse-es-ingenieria-de-software-de-investigacion). Soy un educador y desarrollador de software especializado en el ecosistema de R. Mantengo varios [paquetes de R de código abierto](https://www.r-pkg.org/search.html?q=maurolepore) y soy [editor asociado en rOpenSci](https://ropensci.org/author/mauro-lepore).
 </details>
 
 TLDR:
 - 🗣 *What?* ¡Tech talks en español!
-- 🕓 *When?* Monday 20th January 2025, 4pm UK time
-- 📍 *How?* Online and in-person at [Bentham House, UCL 302 Tutorial Room](https://maps.app.goo.gl/6cUMZvEKh7FyFtrP8)
+- 🕓 *When?* Monday 17th February 2025, 4pm UK time
+- 📍 *How?* Online and in-person at [Bentham House, UCL, 402 Tutorial Room](https://maps.app.goo.gl/6cUMZvEKh7FyFtrP8)
 - 💃 A social visit to the pub is now traditional!
 
-If you want to attend in person, note that this time the session is taking place in UCL Campus. Please email Sofía (s.minano@ucl.ac.uk) if you plan to join us *en carne y hueso* as we have limited spots.
--->
+If you want to attend in person, note that this session is taking place in UCL Campus. Please email Sofía ([s.minano@ucl.ac.uk](mailto:s.minano@ucl.ac.uk)) if you plan to join us en _carne y hueso_ as we have limited spots.
+
 
 ## 🦦 How to keep in touch?
 
@@ -62,6 +61,7 @@ The best ways to keep up to date with our latest moves are:
 - 💬 our Slack channel **#se-habla-espanol** in the [UK RSE slack workspace](https://ukrse.slack.com). Click on the link to request an invite.
 
 Also, feel free to contact us with any talk suggestions!
+
 
 ## ⭐ Interested in presenting?
 ¡Nos encantaría tenerte de ponente!
