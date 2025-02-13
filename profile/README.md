@@ -51,6 +51,8 @@ TLDR:
 - 📍 *How?* Online and in-person at [Bentham House, UCL, 402 Tutorial Room](https://maps.app.goo.gl/6cUMZvEKh7FyFtrP8)
 - 💃 A social visit to the pub is now traditional!
 
+[Click to download the .ics file](https://drive.google.com/file/d/1NWZnoAxD5176jEW0B_AFQlMe1XqQkLXw/view) and save the date in your calendar! 🗓 It includes Zoom details.
+
 If you want to attend in person, note that this session is taking place in UCL Campus. Please email Sofía ([s.minano@ucl.ac.uk](mailto:s.minano@ucl.ac.uk)) if you plan to join us en _carne y hueso_ as we have limited spots.
 
 
