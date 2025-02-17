@@ -30,7 +30,7 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   > Bio: Soy un informático especializado en abordar problemas biológicos. Durante mi doctorado en la Universidad de Sevilla, bajo la supervisión de Luis M. Escudero, creé herramientas como [EpiGraph](https://github.com/ComplexOrganizationOfLivingMatter/Epigraph) para analizar imágenes de microscopía y estudiar la organización de los tejidos, descubriendo el Escutoide. Ahora, trabajo como investigador postdoctoral con Yanlan Mao en la University College London, desarrollando un modelo computacional 3D para entender cómo las fuerzas moldean tejidos. A lo largo de mi carrera, he colaborado con científicos de diversas disciplinas, liderando el desarrollo de herramientas como EpiGraph y supervisando proyectos de análisis de imágenes en 3D, siempre con un enfoque en open source y accesibles para la comunidad científica.
   </details>
 
-* Mauro Lepore (ixpantia), 17 de febrero de 2025
+* Mauro Lepore (ixpantia), 17 de febrero de 2025 [[diapositivas](https://docs.google.com/presentation/d/e/2PACX-1vTDQf8BMwdcC7Nj0rqt6LCS0yuGjGoVrpafBU5r9iHVvn91JWEvDIx2XQC12WgdzdjYuDnn3EHx5Qgd/pub?start=false&loop=false&delayms=3000&slide=id.g3336aa8c7d5_0_745)]
   <details>
     <summary><b><i>"Expandiendo colaboraciones en Ingeniería de Software de Investigación"</i></b></summary>
   
