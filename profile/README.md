@@ -30,11 +30,12 @@ We have an exciting list of speakers lined up for what we plan to be a monthly s
 
 
 ## 📢 Next Speaker
-<!---
-Our next talk is currently planned for mid-January 2025 - more details to follow soon!
+
+Our next talk is planned for **March 17th, 4pm UK time** - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
--->
+
+<!---
 Our next speaker will be **Mauro Lepore**, who will tell us about his experience as a software engineer in R, working in universities, museums, NGOs and research centres all over the world! 🌎🌍🌏 Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
 <details>
@@ -54,7 +55,7 @@ TLDR:
 [Click to download the .ics file](https://drive.google.com/file/d/1NWZnoAxD5176jEW0B_AFQlMe1XqQkLXw/view) and save the date in your calendar! 🗓 It includes Zoom details.
 
 If you want to attend in person, note that this session is taking place in UCL Campus. Please email Sofía ([s.minano@ucl.ac.uk](mailto:s.minano@ucl.ac.uk)) if you plan to join us en _carne y hueso_ as we have limited spots.
-
+-->
 
 ## 🦦 How to keep in touch?
 
