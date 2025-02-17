@@ -29,3 +29,12 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   >
   > Bio: Soy un informático especializado en abordar problemas biológicos. Durante mi doctorado en la Universidad de Sevilla, bajo la supervisión de Luis M. Escudero, creé herramientas como [EpiGraph](https://github.com/ComplexOrganizationOfLivingMatter/Epigraph) para analizar imágenes de microscopía y estudiar la organización de los tejidos, descubriendo el Escutoide. Ahora, trabajo como investigador postdoctoral con Yanlan Mao en la University College London, desarrollando un modelo computacional 3D para entender cómo las fuerzas moldean tejidos. A lo largo de mi carrera, he colaborado con científicos de diversas disciplinas, liderando el desarrollo de herramientas como EpiGraph y supervisando proyectos de análisis de imágenes en 3D, siempre con un enfoque en open source y accesibles para la comunidad científica.
   </details>
+
+* Mauro Lepore (ixpantia), 17 de febrero de 2025
+  <details>
+    <summary><b><i>"Expandiendo colaboraciones en Ingeniería de Software de Investigación"</i></b></summary>
+  
+  > En esta presentación comparto mis experiencias al hacer la transición como Research Software Engineer (RSE) desde la academia hacia la industria. En la última década, desarrollé código para investigación en una universidad en Australia, un centro de investigación en Panamá, un museo en EE.UU., una ONG en Alemania y ahora una consultora enfocada en ciencia, ingeniería y estrategia de datos. Voy a compartir las necesidades que noté, y voy a explicar por qué creo que las personas que trabajamos en RSE podemos aportar mucho valor combinando experiencia en investigación e industria. Sin embargo, quisiera que mi experiencia sea solo un punto de partida y promover una discusión en la que podamos explorar más profundamente el valor que podemos aportar, especialmente en la comunidad hispanohablante: ¿Quiénes nos necesitan? ¿Dónde están? ¿Qué necesitan? ¿Cómo podemos ayudarlos?
+  >
+  > **Bio**: Trabajo en [ixpantia](http://ixpantia.com/) donde lidero la [práctica de RSE](https://www.ixpantia.com/es/blog/rse-es-ingenieria-de-software-de-investigacion). Soy un educador y desarrollador de software especializado en el ecosistema de R. Mantengo varios [paquetes de R de código abierto](https://www.r-pkg.org/search.html?q=maurolepore) y soy [editor asociado en rOpenSci](https://ropensci.org/author/mauro-lepore).
+</details>
