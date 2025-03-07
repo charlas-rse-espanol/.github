@@ -53,7 +53,7 @@ TLDR:
 
 [Click to download the .ics file](https://drive.google.com/file/d/1A5cKpyXMfA6wTAzZQoZvV4pECyyiYaLS/view?usp=sharing) and save the date in your calendar! 🗓 It includes Zoom details.
 
-If you want to attend in person, this session is taking place in UCL Campus. Please email Sofía ([s.minano@ucl.ac.uk](mailto:s.minano@ucl.ac.uk)) if you plan to join _el jolgorio en persona_ as we have limited spots.
+If you want to attend in person, please email Sofía ([s.minano@ucl.ac.uk](mailto:s.minano@ucl.ac.uk)) if you plan to join _el jolgorio en persona_ as we have limited spots.
 
 
 ## 🦦 How to keep in touch?
