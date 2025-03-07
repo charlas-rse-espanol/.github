@@ -30,32 +30,31 @@ We have an exciting list of speakers lined up for what we plan to be a monthly s
 
 
 ## 📢 Next Speaker
-
+<!---
 Our next talk is planned for **March 17th, 4pm UK time** - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
-
-<!---
-Our next speaker will be **Mauro Lepore**, who will tell us about his experience as a software engineer in R, working in universities, museums, NGOs and research centres all over the world! 🌎🌍🌏 Click on the title to expand the abstract+bio below (en español) 👇 🧵
+-->
+Our next speaker will be **Cecilia Herbert**, who will share her experience working at a small company that develops open-source tools (both software 👩‍💻 and hardware ⚙️!) for neuroscience 🧠. Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
 <details>
-  <summary><h3> Mauro Lepore: <i>"Expandiendo colaboraciones en Ingeniería de Software de Investigación"</i></h3></summary>
+  <summary><h3> Cecilia Herbert: <i>"¿Qué soluciones de software requieren los usuarios y desarrolladores de hardware abierto para investigación?"</i></h3></summary>
 
-> En esta presentación comparto mis experiencias al hacer la transición como Research Software Engineer (RSE) desde la academia hacia la industria. En la última década, desarrollé código para investigación en una universidad en Australia, un centro de investigación en Panamá, un museo en EE.UU., una ONG en Alemania y ahora una consultora enfocada en ciencia, ingeniería y estrategia de datos. Voy a compartir las necesidades que noté, y voy a explicar por qué creo que las personas que trabajamos en RSE podemos aportar mucho valor combinando experiencia en investigación e industria. Sin embargo, quisiera que mi experiencia sea solo un punto de partida y promover una discusión en la que podamos explorar más profundamente el valor que podemos aportar, especialmente en la comunidad hispanohablante: ¿Quiénes nos necesitan? ¿Dónde están? ¿Qué necesitan? ¿Cómo podemos ayudarlos?
+> Les quería compartir mi transición de la neurociencia experimental al mundo de la tecnología open source y compartirles un panorama de una empresa pequeña dedicada al hardware de adquisición de registros neuro-comportamentales. Desde mi perspectiva no RSE, qué necesidades veo a nivel usuario, desarrollador e intraempresa. Me gustaría discutir con ustedes qué opciones de formación existen para quienes vienen de la academia y ese elusivo límite entre aprender a hacer algo por cuenta propia y llamar a alguien que sabe (y retribuir su tiempo y expertise).
 >
-> **Bio**: Trabajo en [ixpantia](http://ixpantia.com/) donde lidero la [práctica de RSE](https://www.ixpantia.com/es/blog/rse-es-ingenieria-de-software-de-investigacion). Soy un educador y desarrollador de software especializado en el ecosistema de R. Mantengo varios [paquetes de R de código abierto](https://www.r-pkg.org/search.html?q=maurolepore) y soy [editor asociado en rOpenSci](https://ropensci.org/author/mauro-lepore).
+> **Bio**: Soy neurocientífica y me dedico a diseminar tecnologías abiertas. Lidero el equipo científico de Training, Support and Outreach en [Open Ephys](https://open-ephys.org/), una empresa que desarrolla, produce y distribuye herramientas open source para neurociencias. Actúo como nexo entre desarrolladores y usuarios, enseñando sobre nuestros equipos, con el objetivo de desmitificar conceptos técnicos, escuchar las necesidades de la comunidad y retroalimentar los proyectos abiertos. Intento difundir el conocimiento de forma inclusiva y accesible, con un foco especial en usuarios nuevos y barreras lingüísticas, usando actividades prácticas e interactivas, con la esperanza de empoderar investigadores a que obtengan la flexibilidad e independencia necesarias para abordar sus preguntas científicas.
 </details>
 
 TLDR:
 - 🗣 *What?* ¡Tech talks en español!
-- 🕓 *When?* Monday 17th February 2025, 4pm UK time
-- 📍 *How?* Online and in-person at [Bentham House, UCL, 402 Tutorial Room](https://maps.app.goo.gl/6cUMZvEKh7FyFtrP8)
+- 🕓 *When?* Monday 17th March 2025, 4pm UK time
+- 📍 *How?* Online and in-person at [Bentham House, UCL, 302 Tutorial Room](https://maps.app.goo.gl/6cUMZvEKh7FyFtrP8)
 - 💃 A social visit to the pub is now traditional!
 
-[Click to download the .ics file](https://drive.google.com/file/d/1NWZnoAxD5176jEW0B_AFQlMe1XqQkLXw/view) and save the date in your calendar! 🗓 It includes Zoom details.
+[Click to download the .ics file](https://drive.google.com/file/d/1A5cKpyXMfA6wTAzZQoZvV4pECyyiYaLS/view?usp=sharing) and save the date in your calendar! 🗓 It includes Zoom details.
 
-If you want to attend in person, note that this session is taking place in UCL Campus. Please email Sofía ([s.minano@ucl.ac.uk](mailto:s.minano@ucl.ac.uk)) if you plan to join us en _carne y hueso_ as we have limited spots.
--->
+If you want to attend in person, this session is taking place in UCL Campus. Please email Sofía ([s.minano@ucl.ac.uk](mailto:s.minano@ucl.ac.uk)) if you plan to join _el jolgorio en persona_ as we have limited spots.
+
 
 ## 🦦 How to keep in touch?
 
