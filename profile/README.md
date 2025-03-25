@@ -28,32 +28,31 @@ An initiative started by Carlos ([@cptanalatriste](https://github.com/cptanalatr
 
 We have an exciting list of speakers lined up for what we plan to be a monthly series. Stay tuned! 📻
 
-
 ## 📢 Next Speaker
 <!---
-Our next talk is planned for **March 17th, 4pm UK time** - more details to follow soon!
+Our next talk is currently planned for mid-January 2025 - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
 -->
-Our next speaker will be **Cecilia Herbert**, who will share her experience working at a small company that develops open-source tools (both software 👩‍💻 and hardware ⚙️!) for neuroscience 🧠. Click on the title to expand the abstract+bio below (en español) 👇 🧵
+Our next speaker will be **Jenny Vega**, who will share her experience working in machine learning and artificial intelligence in industry. Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
 <details>
-  <summary><h3> Cecilia Herbert: <i>"¿Qué soluciones de software requieren los usuarios y desarrolladores de hardware abierto para investigación?"</i></h3></summary>
+  <summary><h3> Jenny Vega: <i>"De ML engineering a Pre sales a Software Engineer en Biotech research"</i></h3></summary>
 
-> Les quería compartir mi transición de la neurociencia experimental al mundo de la tecnología open source y compartirles un panorama de una empresa pequeña dedicada al hardware de adquisición de registros neuro-comportamentales. Desde mi perspectiva no RSE, qué necesidades veo a nivel usuario, desarrollador e intraempresa. Me gustaría discutir con ustedes qué opciones de formación existen para quienes vienen de la academia y ese elusivo límite entre aprender a hacer algo por cuenta propia y llamar a alguien que sabe (y retribuir su tiempo y expertise).
+> Quiero compartirles un poco sobre mi carrera, desde un punto de vista de “perseguir lo que te gusta y aprender en el camino”. He trabajado en diferentes roles y diferentes empresas de diferentes tamaños (Startups, Consulting companies, “BigTechs”) y el único factor en común ha sido Machine Learning / AI. Me gustaría contarles sobre mis experiencias en estos años trabajando en compañías que se dedican a usar machine learning para crear productos y empresas que combinan biología, química y la ingeniería para crear soluciones a desafíos críticos en la medicina.
 >
-> **Bio**: Soy neurocientífica y me dedico a diseminar tecnologías abiertas. Lidero el equipo científico de Training, Support and Outreach en [Open Ephys](https://open-ephys.org/), una empresa que desarrolla, produce y distribuye herramientas open source para neurociencias. Actúo como nexo entre desarrolladores y usuarios, enseñando sobre nuestros equipos, con el objetivo de desmitificar conceptos técnicos, escuchar las necesidades de la comunidad y retroalimentar los proyectos abiertos. Intento difundir el conocimiento de forma inclusiva y accesible, con un foco especial en usuarios nuevos y barreras lingüísticas, usando actividades prácticas e interactivas, con la esperanza de empoderar investigadores a que obtengan la flexibilidad e independencia necesarias para abordar sus preguntas científicas.
+> **Bio**: Jenny Vega ha trabajado en equipos de ingeniería de Machine Learning y pre-sales como arquitecta de soluciones de inteligencia artificial en AWS y Google. Actualmente se desempeña como ingeniera de software en Isomorphic Labs, spin-off de DeepMind, desarrollando herramientas para equipos de biólogos, químicos y científicos que trabajan en Drug Design y Medical Research. Además de su pasión por la ingeniería de software y machine learning, Jenny tiene un gran interés en el área de AI Safety.
 </details>
 
 TLDR:
 - 🗣 *What?* ¡Tech talks en español!
-- 🕓 *When?* Monday 17th March 2025, 4pm UK time
-- 📍 *How?* Online and in-person at [Bentham House, UCL, 302 Tutorial Room](https://maps.app.goo.gl/6cUMZvEKh7FyFtrP8)
+- 🕓 *When?* Monday 07th April 2025, 4pm UK time
+- 📍 *How?* Online and in-person at [The Alan Turing Institute, British Library, 96 Euston Rd., London NW1 2DB](https://maps.app.goo.gl/wYpo4UbraRVaJbsF8)
 - 💃 A social visit to the pub is now traditional!
 
-[Click to download the .ics file](https://drive.google.com/file/d/1A5cKpyXMfA6wTAzZQoZvV4pECyyiYaLS/view?usp=sharing) and save the date in your calendar! 🗓 It includes Zoom details.
+[Click to download the .ics file](https://drive.google.com/file/d/1v1hWrDb2cWxHY6vbAeYcUUb-4lYO_YgD/view?usp=sharing) and save the date in your calendar! 🗓 It includes Zoom details.
 
-If you want to attend in person, please email Sofía ([s.minano@ucl.ac.uk](mailto:s.minano@ucl.ac.uk)) if you plan to join _el jolgorio en persona_ as we have limited spots.
+If you want to attend in person, please email the organisers ([charlas.rse.espanol@gmail.com](mailto:charlas.rse.espanol@gmail.com)) if you plan to join _el jolgorio en persona_ as we have limited spots.
 
 
 ## 🦦 How to keep in touch?
