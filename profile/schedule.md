@@ -38,3 +38,12 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   >
   > **Bio**: Trabajo en [ixpantia](http://ixpantia.com/) donde lidero la [práctica de RSE](https://www.ixpantia.com/es/blog/rse-es-ingenieria-de-software-de-investigacion). Soy un educador y desarrollador de software especializado en el ecosistema de R. Mantengo varios [paquetes de R de código abierto](https://www.r-pkg.org/search.html?q=maurolepore) y soy [editor asociado en rOpenSci](https://ropensci.org/author/mauro-lepore).
 </details>
+
+* Cecilia Herbert (OpenEphys), 17 de marzo 2025
+  <details>
+    <summary><b><i>"¿Qué soluciones de software requieren los usuarios y desarrolladores de hardware abierto para investigación?"</i></b></summary>
+
+  > Les quería compartir mi transición de la neurociencia experimental al mundo de la tecnología open source y compartirles un panorama de una empresa pequeña dedicada al hardware de adquisición de registros neuro-comportamentales. Desde mi perspectiva no RSE, qué necesidades veo a nivel usuario, desarrollador e intraempresa. Me gustaría discutir con ustedes qué opciones de formación existen para quienes vienen de la academia y ese elusivo límite entre aprender a hacer algo por cuenta propia y llamar a alguien que sabe (y retribuir su tiempo y expertise).
+  >
+  > **Bio**: Soy neurocientífica y me dedico a diseminar tecnologías abiertas. Lidero el equipo científico de Training, Support and Outreach en [Open Ephys](https://open-ephys.org/), una empresa que desarrolla, produce y distribuye herramientas open source para neurociencias. Actúo como nexo entre desarrolladores y usuarios, enseñando sobre nuestros equipos, con el objetivo de desmitificar conceptos técnicos, escuchar las necesidades de la comunidad y retroalimentar los proyectos abiertos. Intento difundir el conocimiento de forma inclusiva y accesible, con un foco especial en usuarios nuevos y barreras lingüísticas, usando actividades prácticas e interactivas, con la esperanza de empoderar investigadores a que obtengan la flexibilidad e independencia necesarias para abordar sus preguntas científicas.
+  </details>
