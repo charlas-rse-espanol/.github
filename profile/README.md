@@ -29,11 +29,11 @@ An initiative started by Carlos ([@cptanalatriste](https://github.com/cptanalatr
 We have an exciting list of speakers lined up for what we plan to be a monthly series. Stay tuned! 📻
 
 ## 📢 Next Speaker
-<!---
-Our next talk is currently planned for mid-January 2025 - more details to follow soon!
+
+Our next talk is currently planned for **Tuesday 27th May 2025** - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
--->
+<!---
 Our next speaker will be **Jenny Vega**, who will share her experience working in machine learning and artificial intelligence in industry. Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
 <details>
@@ -53,7 +53,7 @@ TLDR:
 [Click to download the .ics file](https://drive.google.com/file/d/1v1hWrDb2cWxHY6vbAeYcUUb-4lYO_YgD/view?usp=sharing) and save the date in your calendar! 🗓 It includes Zoom details.
 
 If you want to attend in person, please email the organisers ([charlas.rse.espanol@gmail.com](mailto:charlas.rse.espanol@gmail.com)) if you plan to join _el jolgorio en persona_ as we have limited spots.
-
+-->
 
 ## 🦦 How to keep in touch?
 
