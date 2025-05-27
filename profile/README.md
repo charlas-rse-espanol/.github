@@ -29,31 +29,10 @@ An initiative started by Carlos ([@cptanalatriste](https://github.com/cptanalatr
 We have an exciting list of speakers lined up for what we plan to be a monthly series. Stay tuned! 📻
 
 ## 📢 Next Speaker
-<!---
-Our next talk is currently planned for mid-January 2025 - more details to follow soon!
+
+Our next talk is currently planned for the 9th June 2025 - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
--->
-Our next speaker will be **Riva Quiroga**, who will tell us about her career switch from literature and education to software engineering, and her experience as a _serial volunteer_. Click on the title to expand the abstract+bio below (en español) 👇 🧵
-
-<details>
-  <summary><h3> Riva Quiroga: <i>"Convertirse en RSE viniendo de cualquier parte"</i></h3></summary>
-
-> ¿Cómo alguien que estudió Lengua y Literatura y trabajó 7 años como maestra de escuela termina dedicada a la ingeniería de software de investigación? En esta charla abordaremos cómo una trayectoria muy poco probable se vuelve posible gracias al apoyo de las comunidades de práctica. Discutiremos también el valor de estas comunidades para mantenerse al día sobre nuevos desarrollos y contaremos acerca de los planes para establecer el primer grupo de RSE en Latinoamérica.
->
-> **Bio**: Riva Quiroga es RSE en Tabular, una pequeña empresa que ofrece servicios de desarrollo de software a proyectos de investigación. Es Fellow del Software Sustainability Institute y editora en Programming Historian. Es, además, una voluntaria serial: participa activamente en distintas iniciativas de las comunidades de R y Python, desde la organización de eventos a la traducción de materiales y documentación.
-</details>
-
-TLDR:
-- 🗣 *What?* ¡Tech talks en español!
-- 🕓 *When?* Tuesday 27th May 2025, 4pm UK time
-- 📍 *How?* Online and in-person at [49-51 Gordon Square, London WC1H 0PD, Room 105](https://maps.app.goo.gl/rTz2s7czjsrauHy17)
-- 💃 A social visit to the pub is now traditional!
-
-[Click to download the .ics file](https://drive.google.com/file/d/1A4QXHIvCXv4DHI-HVdxYcuJtfPG-PANF/view?usp=sharing) and save the date in your calendar! 🗓 It includes Zoom details.
-
-If you want to attend _en carne y hueso_, please email the organisers ([charlas.rse.espanol@gmail.com](mailto:charlas.rse.espanol@gmail.com)) as we have limited spots.
-
 
 ## 🦦 How to keep in touch?
 
