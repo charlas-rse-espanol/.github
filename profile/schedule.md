@@ -56,3 +56,12 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   >
   > **Bio**: Jenny Vega ha trabajado en equipos de ingeniería de Machine Learning y pre-sales como arquitecta de soluciones de inteligencia artificial en AWS y Google. Actualmente se desempeña como ingeniera de software en Isomorphic Labs, spin-off de DeepMind, desarrollando herramientas para equipos de biólogos, químicos y científicos que trabajan en Drug Design y Medical Research. Además de su pasión por la ingeniería de software y machine learning, Jenny tiene un gran interés en el área de AI Safety.
   </details>
+
+* Riva Quiroga (Tabular), 27 de mayo 2025
+  <details>
+    <summary><b><i>"Convertirse en RSE viniendo de cualquier parte"</i></b></summary>
+  
+    > ¿Cómo alguien que estudió Lengua y Literatura y trabajó 7 años como maestra de escuela termina dedicada a la ingeniería de software de investigación? En esta charla abordaremos cómo una trayectoria muy poco probable se vuelve posible gracias al apoyo de las comunidades de práctica. Discutiremos también el valor de estas comunidades para mantenerse al día sobre nuevos desarrollos y contaremos acerca de los planes para establecer el primer grupo de RSE en Latinoamérica.
+    >
+    > **Bio**: Riva Quiroga es RSE en Tabular, una pequeña empresa que ofrece servicios de desarrollo de software a proyectos de investigación. Es Fellow del Software Sustainability Institute y editora en Programming Historian. Es, además, una voluntaria serial: participa activamente en distintas iniciativas de las comunidades de R y Python, desde la organización de eventos a la traducción de materiales y documentación.
+  </details>
