@@ -57,7 +57,7 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   > **Bio**: Jenny Vega ha trabajado en equipos de ingeniería de Machine Learning y pre-sales como arquitecta de soluciones de inteligencia artificial en AWS y Google. Actualmente se desempeña como ingeniera de software en Isomorphic Labs, spin-off de DeepMind, desarrollando herramientas para equipos de biólogos, químicos y científicos que trabajan en Drug Design y Medical Research. Además de su pasión por la ingeniería de software y machine learning, Jenny tiene un gran interés en el área de AI Safety.
   </details>
 
-* Riva Quiroga (Tabular), 27 de mayo 2025
+* Riva Quiroga (Tabular), 27 de mayo 2025 [[diapositivas](https://tinyurl.com/RSE-charlas-mayo-2025)]
   <details>
     <summary><b><i>"Convertirse en RSE viniendo de cualquier parte"</i></b></summary>
   
