@@ -29,10 +29,31 @@ An initiative started by Carlos ([@cptanalatriste](https://github.com/cptanalatr
 We have an exciting list of speakers lined up for what we plan to be a monthly series. Stay tuned! 📻
 
 ## 📢 Next Speaker
-
-Our next talk is currently planned for the 9th June 2025 - more details to follow soon!
+<!---
+Our next talk is currently planned for mid-January 2025 - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
+-->
+Our next speaker will be **Maria Guadalupe Barrios Sazo**, who will tell us about her career as a researcher and research software engineer, and her thoughts on new flexible and interactive ways for developing RSE skills. Click on the title to expand the abstract+bio below (en español) 👇 🧵
+
+<details>
+  <summary><h3> Maria Guadalupe Barrios Sazo: <i>"Scavenger Hunt para RSE: Aprendizaje interactivo y flexible"</i></h3></summary>
+
+> En esta charla, les compartiré un poco sobre mi trayectoria en investigación y en RSE. Luego, me gustaría presentar una idea para fortalecer el aprendizaje de técnicas utilizadas por RSEs. La forma tradicional de adquirir una nueva competencia es a través de cursos o talleres. Sin embargo, muchos investigadores no siempre coinciden con el tiempo o el estilo de aprendizaje, lo que puede ser una barrera. Nuestro grupo está proponiendo un esquema basado en gamificación y funcionalidades de GitHub para aprender o mejorar las técnicas. El diseño está inspirado en el juego 'scavenger hunt', donde los participantes pueden obtener puntos o tokens por cada ejercicio que realizan. Estos ejercicios son calificados automáticamente por GitHub Actions. Los ejercicios se basan en material desarrollado por la comunidad, como Software Carpentries.
+>
+> **Bio**: Guadalupe (Lupe) forma parte del equipo de RSE en el Juelich Supercomputing Centre en Alemania desde 2023. Previamente, trabajó como RSE en la Universidad de Oslo en el Rosseland Centre for Solar Physics, donde desarrolló y brindó soporte a códigos utilizados para la simulación de la atmósfera solar. Obtuvo su doctorado en Física en la Universidad de Stony Brook en Nueva York, y su investigación se centró en astrofísica computacional. Durante ese período, contribuyó al desarrollo del código Castro, principalmente en la implementación de un solucionador de magnetohidrodinámica. Sus intereses se enfocan en computación científica, computación de alto rendimiento y sostenibilidad del software.
+</details>
+
+TLDR:
+- 🗣 *What?* ¡Tech talks en español!
+- 🕓 *When?* Monday 14th July 2025, 4pm UK time
+- 📍 *How?* Online and in-person at [36-38 Gordon Square, UCL, Room B05](https://g.co/kgs/SBVgniM)
+- 💃 A social visit to the pub is now traditional!
+
+[Click to download the .ics file](https://drive.google.com/file/d/1lRLMOgcEdXl9J4rpSMYi-D0qO3T_qGzM/view?usp=sharing) and save the date in your calendar! 🗓 It includes Zoom details.
+
+If you want to attend _en carne y hueso_, please email the organisers ([charlas.rse.espanol@gmail.com](mailto:charlas.rse.espanol@gmail.com)) as we have limited spots.
+
 
 ## 🦦 How to keep in touch?
 
