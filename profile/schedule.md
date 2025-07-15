@@ -65,3 +65,12 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
     >
     > **Bio**: Riva Quiroga es RSE en Tabular, una pequeña empresa que ofrece servicios de desarrollo de software a proyectos de investigación. Es Fellow del Software Sustainability Institute y editora en Programming Historian. Es, además, una voluntaria serial: participa activamente en distintas iniciativas de las comunidades de R y Python, desde la organización de eventos a la traducción de materiales y documentación.
   </details>
+
+* Maria Guadalupe Barrios Sazo (Juelich Supercomputing Centre), 14 de julio 2025
+  <details>
+    <summary><b><i>"Scavenger Hunt para RSE: Aprendizaje interactivo y flexible"</i></b></summary>
+  
+  > En esta charla, les compartiré un poco sobre mi trayectoria en investigación y en RSE. Luego, me gustaría presentar una idea para fortalecer el aprendizaje de técnicas utilizadas por RSEs. La forma tradicional de adquirir una nueva competencia es a través de cursos o talleres. Sin embargo, muchos investigadores no siempre coinciden con el tiempo o el estilo de aprendizaje, lo que puede ser una barrera. Nuestro grupo está proponiendo un esquema basado en gamificación y funcionalidades de GitHub para aprender o mejorar las técnicas (https://github.com/FZJ-JSC/rse-scavenger-hunt). El diseño está inspirado en el juego 'scavenger hunt', donde los participantes pueden obtener puntos o tokens por cada ejercicio que realizan. Estos ejercicios son calificados automáticamente por GitHub Actions. Los ejercicios se basan en material desarrollado por la comunidad, como Software Carpentries.
+  >
+  > **Bio**: Guadalupe (Lupe) forma parte del equipo de RSE en el Juelich Supercomputing Centre en Alemania desde 2023. Previamente, trabajó como RSE en la Universidad de Oslo en el Rosseland Centre for Solar Physics, donde desarrolló y brindó soporte a códigos utilizados para la simulación de la atmósfera solar. Obtuvo su doctorado en Física en la Universidad de Stony Brook en Nueva York, y su investigación se centró en astrofísica computacional. Durante ese período, contribuyó al desarrollo del código Castro, principalmente en la implementación de un solucionador de magnetohidrodinámica. Sus intereses se enfocan en computación científica, computación de alto rendimiento y sostenibilidad del software.
+  </details>
