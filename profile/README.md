@@ -30,30 +30,10 @@ We have an exciting list of speakers lined up for what we plan to be a monthly s
 
 
 ## 📢 Next Speaker
-<!---
-Our next talk is currently planned for mid-January 2025 - more details to follow soon!
+
+Our next talk is currently planned for mid-October 2025 - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
--->
-Our next speaker will be **Lucía Cipolina-Kun**, who will tell us about her research on the reasoning capabilities of large language models through strategic games. Click on the title to expand the abstract+bio below (en español) 👇 🧵
-
-<details>
-  <summary><h3> Lucía Cipolina-Kun: <i>"Game Reasoning Arena: Una Librería Abierta y un Benchmark para Evaluar las Capacidades de Razonamiento de los Modelos de Lenguaje de Gran Escala a través de Juegos Estratégicos"</i></h3></summary>
-
-> Los Modelos de Lenguaje de Gran Escala (LLMs) se utilizan cada vez más en tareas que requieren planificación y toma de decisiones, pero aún no está claro cómo razonan realmente. Los juegos de estrategia ofrecen una vía ideal para explorar esta cuestión: son estructurados, interactivos y exigen tanto previsión como adaptabilidad. En esta charla, presentaré [Game Reasoning Arena](https://github.com/SLAMPAI/game_reasoning_arena), un marco que evalúa a los LLMs no solo en función de si ganan, sino también de cómo justifican sus elecciones. Al analizar el razonamiento que los modelos articulan durante el juego, obtenemos nuevas perspectivas sobre sus fortalezas y debilidades estratégicas, así como sobre los patrones de razonamiento que emergen en diferentes escalas de modelo.
->
-> **Bio**: Lucía Cipolina-Kun es científica investigadora en el laboratorio de META Research. Sus intereses se encuentran en la intersección entre la teoría de juegos y la inteligencia artificial. Lucia es doctora en Ingeniería Eléctrica por la Universidad de Bristol y posee una maestría en Matemáticas por la Universidad de Nueva York (NYU).
-</details>
-
-TLDR:
-- 🗣 *What?* ¡Tech talks en español!
-- 🕓 *When?* Monday 15th September 2025, 4pm UK time
-- 📍 *How?* Online and in-person at [Jack Good Meeting Room, The Alan Turing Institute, British Library, 96 Euston Rd., London NW1 2DB](https://maps.app.goo.gl/qTqLBEaAYkA36Xqx5)
-- 💃 A social visit to the pub is now traditional!
-
-[Click to download the .ics file](https://drive.google.com/file/d/14Q2twB04uQB9sliHVoMcDqc9rheoZs-Y/view?usp=sharing) and save the date in your calendar! 🗓 It includes Zoom details.
-
-If you want to attend _en carne y hueso_, please email the organisers ([charlas.rse.espanol@gmail.com](mailto:charlas.rse.espanol@gmail.com)) as we have limited spots.
 
 
 
