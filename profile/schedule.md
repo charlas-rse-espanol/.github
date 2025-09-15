@@ -83,3 +83,12 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   >
   > **Bio**: Felipe Huerta Pérez es profesor asistente en el Departamento de Ingeniería Química y Bioprocesos de la Pontificia Universidad Católica de Chile. Dicta los cursos de Fenómenos de Transporte, Operaciones Unitarias II y Procesamiento de hidrógeno para energías sostenibles. Obtuvo su magíster en la Pontificia Universidad Católica de Chile en el año 2016, y su doctorado en Imperial College London en el año 2021. En el año 2019 obtuvo el premio John S. Archer Award a la excelencia en investigación en geociencias e ingeniería del petróleo. Sus áreas actuales de investigación son la modelación y simulación de fenómenos de transporte, líquidos criogénicos y almacenamiento de energía renovable. Le gusta mucho el software de investigación y cree que la ciencia abierta apoyará un futuro más justo, sostenible y próspero para todas las regiones del planeta, sobre todo las con más carencias materiales.
   </details>
+
+* Lucía Cipolina-Kun (Meta Research), 15 de septiembre 2025
+  <details>
+  <summary><b><i>"Game Reasoning Arena: Una Librería Abierta y un Benchmark para Evaluar las Capacidades de Razonamiento de los Modelos de Lenguaje de Gran Escala a través de Juegos Estratégicos"</i></b></summary>
+  
+  > Los Modelos de Lenguaje de Gran Escala (LLMs) se utilizan cada vez más en tareas que requieren planificación y toma de decisiones, pero aún no está claro cómo razonan realmente. Los juegos de estrategia ofrecen una vía ideal para explorar esta cuestión: son estructurados, interactivos y exigen tanto previsión como adaptabilidad. En esta charla, presentaré [Game Reasoning Arena](https://github.com/SLAMPAI/game_reasoning_arena), un marco que evalúa a los LLMs no solo en función de si ganan, sino también de cómo justifican sus elecciones. Al analizar el razonamiento que los modelos articulan durante el juego, obtenemos nuevas perspectivas sobre sus fortalezas y debilidades estratégicas, así como sobre los patrones de razonamiento que emergen en diferentes escalas de modelo.
+  >
+  > **Bio**: Lucía Cipolina-Kun es científica investigadora en el laboratorio de META Research. Sus intereses se encuentran en la intersección entre la teoría de juegos y la inteligencia artificial. Lucía es doctora en Ingeniería Eléctrica por la Universidad de Bristol y posee una maestría en Matemáticas por la Universidad de Nueva York (NYU).
+  </details>
