@@ -75,7 +75,7 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   > **Bio**: Guadalupe (Lupe) forma parte del equipo de RSE en el Juelich Supercomputing Centre en Alemania desde 2023. Previamente, trabajó como RSE en la Universidad de Oslo en el Rosseland Centre for Solar Physics, donde desarrolló y brindó soporte a códigos utilizados para la simulación de la atmósfera solar. Obtuvo su doctorado en Física en la Universidad de Stony Brook en Nueva York, y su investigación se centró en astrofísica computacional. Durante ese período, contribuyó al desarrollo del código Castro, principalmente en la implementación de un solucionador de magnetohidrodinámica. Sus intereses se enfocan en computación científica, computación de alto rendimiento y sostenibilidad del software.
   </details>
 
-* Felipe Huerta Pérez (Pontifica Universidad Católica de Chile), 19 de agosto 2025 [[diapositivas](https://drive.google.com/file/d/1CO-qH8lxRR9EDXpzjrrUA-79V71Kaulr/view?usp=sharing)]
+* Felipe Huerta Pérez (Pontificia Universidad Católica de Chile), 19 de agosto 2025 [[diapositivas](https://drive.google.com/file/d/1CO-qH8lxRR9EDXpzjrrUA-79V71Kaulr/view?usp=sharing)]
   <details>
   <summary><b><i>"La guinda de la torta: desarrollo y publicación de software open-source para transferir la investigación doctoral a la sociedad"</i></b></summary>
 
