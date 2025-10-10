@@ -31,9 +31,31 @@ We have an exciting list of speakers lined up for what we plan to be a monthly s
 
 ## 📢 Next Speaker
 
-Our next talk is currently planned for mid-October 2025 - more details to follow soon!
+## 📢 Next Speaker
+<!---
+Our next talk is currently planned for mid-January 2025 - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
+-->
+Our next speaker will be **Camilo Rodríguez López**, who will tell us about his wide-ranging experience researching poison frogs 🐸, from doing field work 🌿 and lab experiments 🔬 to software development 💻 ! Click on the title to expand the abstract+bio below (en español) 👇 🧵
+
+<details>
+  <summary><h3> Camilo Rodríguez López: <i>"De la selva al escritorio: lo que las ranas venenosas me enseñaron sobre ecología, neurociencia y ciencia de datos"</i></h3></summary>
+
+> En esta charla compartiré cómo mi trabajo con ranas venenosas ha moldeado mi trayectoria, desde el trabajo de campo en la selva, pasando por el laboratorio, hasta llegar a un escritorio con tres pantallas. Contaré en detalle mi experiencia postdoctoral, en la que aprendí neurociencia y descubrí la necesidad de desarrollar y usar herramientas informáticas, de acceso libre para investigar organismos no modelo. A lo largo de la presentación mostraré cómo la ciencia de datos se ha convertido en una herramienta clave en mi carrera científica.
+>
+> **Bio**: Soy biólogo y mi carrera se ha enfocado en la ecología comportamental, las hormonas y la neurociencia en ranas venenosas. Tras finalizar mi postdoctorado en el laboratorio de Lauren O’Connell en agosto de 2024, asumí el rol de analista de datos en el mismo grupo, donde combino la biología con la ciencia de datos para abordar preguntas complejas en organismos no modelo.
+</details>
+
+TLDR:
+- 🗣 *What?* ¡Tech talks en español!
+- 🕓 *When?* Monday 20th October 2025, 4pm UK time
+- 📍 *How?* Online and in-person at [26 Bedford Way, London WC1H 0AP - room LG15](https://maps.app.goo.gl/qTqLBEaAYkA36Xqx5)
+- 💃 A social visit to the pub is now traditional!
+
+[Click to download the .ics file](https://drive.google.com/file/d/1UzAyd7lk6yOkxlxcuyyf3mdnSejR0AGR/view?usp=sharing) and save the date in your calendar! 🗓 It includes Zoom details.
+
+To attend _en carne y hueso_, please email the organisers ([charlas.rse.espanol@gmail.com](mailto:charlas.rse.espanol@gmail.com)) as we have limited spots.
 
 
 
