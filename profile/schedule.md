@@ -92,3 +92,13 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   >
   > **Bio**: Lucía Cipolina-Kun es científica investigadora en el laboratorio de META Research. Sus intereses se encuentran en la intersección entre la teoría de juegos y la inteligencia artificial. Lucía es doctora en Ingeniería Eléctrica por la Universidad de Bristol y posee una maestría en Matemáticas por la Universidad de Nueva York (NYU).
   </details>
+
+* Camilo Rodríguez López (Stanford University), 20 de octubre 2025
+  <details>
+  <summary><b><i>"De la selva al escritorio: lo que las ranas venenosas me enseñaron sobre ecología, neurociencia y ciencia de datos"</i></b></summary>
+
+  > En esta charla compartiré cómo mi trabajo con ranas venenosas ha moldeado mi trayectoria, desde el trabajo de campo en la selva, pasando por el laboratorio, hasta llegar a un escritorio con tres pantallas. Contaré en detalle mi experiencia postdoctoral, en la que aprendí neurociencia y descubrí la necesidad de desarrollar y usar herramientas informáticas, de acceso libre para investigar organismos no modelo. A lo largo de la presentación mostraré cómo la ciencia de datos se ha convertido en una herramienta clave en mi carrera científica.
+  >
+  > **Bio**: Soy biólogo y mi carrera se ha enfocado en la ecología comportamental, las hormonas y la neurociencia en ranas venenosas. Tras finalizar mi postdoctorado en el laboratorio de Lauren O’Connell en agosto de 2024, asumí el rol de analista de datos en el mismo grupo, donde combino la biología con la ciencia de datos para abordar preguntas complejas en organismos no modelo.
+  </details>
+
