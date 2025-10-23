@@ -29,18 +29,33 @@ An initiative started by Carlos ([@cptanalatriste](https://github.com/cptanalatr
 We have an exciting list of speakers lined up for what we plan to be a monthly series. Stay tuned! 📻
 
 ## 📢 Next Speaker
-
-Our next talk is currently planned for the 10th November 2025 - more details to follow soon!
+<!---
+Our next talk is currently planned for mid-January 2025 - more details to follow soon!
 
 In the meantime, maybe you can check the material from [previous sessions](https://github.com/charlas-rse-espanol/.github/blob/main/profile/schedule.md).
+-->
+Our next speaker will be **Jaime Ruiz Zapatero**, who will tell us about big data applications to Cosmology, with emphasis on statistical inference. Click on the title to expand the abstract+bio below (en español) 👇 🧵
 
-## 🦦 How to keep in touch?
+<details>
+  <summary><h3> Jaime Ruiz Zapatero: <i>"Cosmología con Datos a lo Bestia (Cosmology with Big Data)"</i></h3></summary>
 
-The best ways to keep up to date with our latest moves are:
-- 📬 our mailing list via [Google Groups](https://groups.google.com/g/rse-en-espaniol/). Click directly on the link to join!
-- 💬 our Slack channel **#se-habla-espanol** in the [UK RSE slack workspace](https://ukrse.slack.com). Click on the link to request an invite.
+> La inferencia estadística consiste en estimar las propiedades de un grupo dada una pequeña muestra. En Cosmología esto se traduce en aprender las propiedades del Universo en su conjunto dadas unas pocas (cientos de millones) de galaxias. A mitad de los años dos mil la Cosmología empezó a experimentar un rápido proceso de cuantificación. En los últimos años este proceso se ha convertido en exponencial gracias a la llegada de los llamados telescopios de cuarta generación. Por tanto, la Cosmología se encuentra envuelta en una carrera armamentística en la que datos más complejos requieren de modelos igualmente complicados. Tal es el punto que nuestras técnicas de inferencia estadística para extraer los valores de estos nuevos modelos no dan abasto. En esta charla expondré brevemente cual es el estado actual de la Cosmología como campo y cuales son sus principales desafíos. Luego me enfocaré en los problemas y soluciones que este nuevo aluvión de datos nos está trayendo. Particularmente me centraré en los últimos desarrollos en los métodos de inferencia estadística que hacen posible su procesamiento.
+>
+> **Bio**: Jaime Ruiz Zapatero, vallisoletano por cuna y gaditano por sentimiento, es ingeniero de software para los telescopios Vera Rubin y Euclides desde 2023. Anteriormente, completó su doctorado en Astronomía, estudiando la aplicación de métodos auto-diferenciables para agilizar la inferencia estadística de modelos con alta dimensionalidad.
+</details>
 
-Also, feel free to contact us with any talk suggestions!
+TLDR:
+- 🗣 *What?* ¡Tech talks en español!
+- 🕓 *When?* Monday 10th November 2025, 4pm UK time
+- 📍 *How?* Online and in-person at [Chandler House (UCL), 2 Wakefield St, London WC1N 1PF - Room 201](https://maps.app.goo.gl/p1JfDY9huBCsCx4t8)
+- 💃 A social visit to the pub is now traditional!
+
+[Click to download the .ics file](https://drive.google.com/file/d/1yhGuF959ThAKgIVLVacEw1KjgPZPiYNE/view?usp=share_link) and save the date in your calendar! 🗓 It includes Zoom details.
+
+To attend _en carne y hueso_, please email the organisers ([charlas.rse.espanol@gmail.com](mailto:charlas.rse.espanol@gmail.com)) as we have limited spots.
+
+Or if you cannot join this time but would like to stay informed, feel free to subscribe to our [Google groups mailing list](https://groups.google.com/g/rse-en-espaniol/).
+
 
 
 ## ⭐ Interested in presenting?
