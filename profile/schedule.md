@@ -93,7 +93,7 @@ Aquí puedes encontrar información sobre las sesiones previas del seminario.
   > **Bio**: Lucía Cipolina-Kun es científica investigadora en el laboratorio de META Research. Sus intereses se encuentran en la intersección entre la teoría de juegos y la inteligencia artificial. Lucía es doctora en Ingeniería Eléctrica por la Universidad de Bristol y posee una maestría en Matemáticas por la Universidad de Nueva York (NYU).
   </details>
 
-* Camilo Rodríguez López (Stanford University), 20 de octubre 2025
+* Camilo Rodríguez López (Stanford University), 20 de octubre 2025 [[diapositivas](https://drive.google.com/file/d/1l4D4F7xyWLkpulSlM-tOnyGTlCJ-um2y/view?usp=sharing)]
   <details>
   <summary><b><i>"De la selva al escritorio: lo que las ranas venenosas me enseñaron sobre ecología, neurociencia y ciencia de datos"</i></b></summary>
 
